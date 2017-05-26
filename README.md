@@ -2,6 +2,14 @@
 body {
     background-color: yellow;
 }
+
+h1 {
+    background-color: #00ff00;
+}
+
+p {
+    background-color: rgb(255,0,255);
+}
 </style>
 
 <h1>C++ Final</h1>
