@@ -1,5 +1,7 @@
 <style>
+body{
   background-color blue;
+  }
 </style>
 
 <h1>C++ Final</h1>
